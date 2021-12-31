@@ -1,4 +1,3 @@
-
 if getgenv().Key=="X%LZbvK8;w}Qse.q?uBD" then--чекает если правильный ключ
 print("[!] Right Key!")
 local synx = syn--синапс
